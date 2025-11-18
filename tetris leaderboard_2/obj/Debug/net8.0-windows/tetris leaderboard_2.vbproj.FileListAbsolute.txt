@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris_leaderboard_2.FormLeaderboard.resources
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.AssemblyInfo.vb
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\bin\Debug\net8.0-windows\tetris leaderboard_2.exe
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\bin\Debug\net8.0-windows\tetris leaderboard_2.deps.json
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\bin\Debug\net8.0-windows\tetris leaderboard_2.runtimeconfig.json
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\bin\Debug\net8.0-windows\tetris leaderboard_2.dll
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\bin\Debug\net8.0-windows\tetris leaderboard_2.pdb
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.dll
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\refint\tetris leaderboard_2.dll
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.pdb
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\tetris leaderboard_2.genruntimeconfig.cache
+C:\Users\HP\source\repos\tetris leaderboard_2\tetris leaderboard_2\obj\Debug\net8.0-windows\ref\tetris leaderboard_2.dll
